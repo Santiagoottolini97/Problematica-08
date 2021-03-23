@@ -1,2 +1,2 @@
-var a = "asstonishing"
-console.log(a.toUpperCase())
+let a = "asstonishing";
+console.log(a.toUpperCase());
