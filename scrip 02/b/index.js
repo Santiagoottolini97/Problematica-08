@@ -1,3 +1,3 @@
 let a = "asstonishing";
-let b = a.substring(9, 12);
+let b = a.substring(0, 5);
 console.log(b);
