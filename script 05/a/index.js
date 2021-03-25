@@ -1,5 +1,4 @@
 let a = ["Start", "Middle", "End", "Bottom", "Top"];
-let b = a.length;
-for (let i = 0; i < b; i++) {
+for (let i = 0; i < a.length; i++) {
   alert(a[i]);
 }
